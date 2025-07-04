@@ -11,3 +11,90 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#card{
+  margin: 5px 0 5px 90px;
+  padding: 5px;
+  border: solid 2px black;
+  float: left;
+  box-shadow: 5px 5px 10px 10px rgb(191,191,222);
+}
+.btn{
+  margin: 10px;
+  padding: 8px 16px;
+  height: 35px;
+  width: auto;
+  cursor: pointer;
+  border: none;
+  background-color: #4f6bed;
+  color: white;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: background 0.2s;
+}
+
+/* Form styling */
+form {
+  margin: 20px 0 20px 90px;
+  padding: 20px;
+  border: 2px solid #4f6bed;
+  border-radius: 8px;
+  background: #f7f9fc;
+  box-shadow: 2px 2px 8px 2px rgba(79,107,237,0.08);
+  max-width: 400px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #222;
+}
+
+form input,
+form select,
+form textarea {
+  width: 100%;
+  padding: 8px 10px;
+  margin-bottom: 16px;
+  border: 1px solid #bfc6e0;
+  box-shadow: 0 2px 8px rgba(79,107,237,0.08);
+  border-radius: 4px;
+  font-size: 15px;
+  box-sizing: border-box;
+  background: #fff;
+  transition: border 0.2s;
+}
+
+form input:focus,
+form select:focus,
+form textarea:focus {
+  border-color: #4f6bed;
+  outline: none;
+}
+.btn:hover {
+  background-color: #3a4fa0;
+}
+
+/* Checkbox styling */
+input[type="checkbox"] {
+  accent-color: #4f6bed;
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+label.checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  font-size: 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+nav a{
+  margin-right: 16px;
+  text-decoration: none;
+  padding: 6px 12px;
+  color: blue;
+}
+

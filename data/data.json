@@ -1,0 +1,69 @@
+{
+    "products":[
+         {
+        "img":"https://m.media-amazon.com/images/I/61iSZ61xAgL._SX679_.jpg",
+        "id":1,
+        "name":"iphone14",
+        "price":20000,
+        "category":"mobile",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://m.media-amazon.com/images/I/81XdceRvZaL._AC_UY327_FMwebp_QL65_.jpg",
+        "id":2,
+        "name":"LGTv",
+        "price":7000,
+        "category":"tv",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://m.media-amazon.com/images/I/71KuVWIjyoL._AC_UL480_FMwebp_QL65_.jpg",
+        "id":3,
+        "name":"watch",
+        "price":2000,
+        "category":"watch",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://m.media-amazon.com/images/I/51+SoS8bWbL._AC_UY327_FMwebp_QL65_.jpg",
+        "id":4,
+        "name":"dell",
+        "price":20000,
+        "category":"laptop",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+          {
+       "img":"https://m.media-amazon.com/images/I/61iSZ61xAgL._SX679_.jpg",
+        "id":5,
+        "name":"iphone13",
+        "price":21000,
+        "category":"mobile",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://m.media-amazon.com/images/I/61Q5TPiBh2L._AC_UL480_FMwebp_QL65_.jpg",
+        "id":6,
+        "name":"Titan",
+        "price":7000,
+        "category":"watch",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://m.media-amazon.com/images/I/61Q5TPiBh2L._AC_UL480_FMwebp_QL65_.jpg",
+        "id":7,
+        "name":"sonata",
+        "price":2000,
+        "category":"watch",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+      
+        "img":"https://m.media-amazon.com/images/I/61iSZ61xAgL._SX679_.jpg",
+        "id":8,
+        "name":"samsung",
+        "price":20000,
+        "category":"mobile",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       }
+    ]
+}
